@@ -34,6 +34,7 @@
                 network, Home Device Manager offers a standardized CPE integration layer that
                 enables providers to manage CPE that support either the Broadband Forum's TR-069
                 protocol or other protocols such as Telnet. </p>
+            <p/>
             <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>After executing
                 the <b>Improve Structure</b> Positron AI action <?oxy_custom_end?>:</p>
             <p><uicontrol>Purpose of Home Device Manager</uicontrol></p>
