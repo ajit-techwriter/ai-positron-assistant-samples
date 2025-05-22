@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="example_creating_dita_xml_topic">
+    <title>Example: Creating a DITA XML Topic</title>
+    <refbody>
+        <section>
+            <p>
+                <codeblock id="codeblock_nsk_ndw_11c">Create a valid DITA XML topic from the following content. </codeblock>
+            </p>
+        </section>
+    </refbody>
+</reference>
