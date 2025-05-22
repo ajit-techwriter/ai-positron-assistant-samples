@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="resolved_issues_hdm">
+    <title>Resolved Issues in Home Device Manager</title>
+    <refbody>
+        <section>
+            <p>
+                <table id="tableID-resolved_issues" frame="all" rowsep="1" colsep="1">
+                    <title>Resolved issues</title>
+                    <tgroup cols="3">
+                        <colspec colnum="1" colname="col1"/>
+                        <colspec colnum="2" colname="col2"/>
+                        <colspec colnum="3" colname="col3"/>
+                        <thead>
+                            <row>
+                                <entry>ID</entry>
+                                <entry>Summary</entry>
+                                <entry>Description</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>HDM</entry>
+                                <entry>HDM throws an exception when the USP device sends any
+                                    notifications prior to the OnBoard notification</entry>
+                                <entry><b>Symptoms.</b> HDM encounters a NullPointerException (NPE)
+                                    when it receives notifications from the USP devices before the
+                                    OnBoard notification, Due to these exceptions, trace log file
+                                    grows quickly.<p><b>Resolution.</b> This issue occurs due to the
+                                        absence of the DeviceID triplet for the agent's endpointID.
+                                        This issue has been fixed in this release.</p></entry>
+                            </row>
+                            <!-- Additional rows omitted for brevity -->
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </section>
+    </refbody>
+</reference>
