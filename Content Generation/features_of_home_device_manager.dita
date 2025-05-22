@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="features_of_home_device_manager">
+    <title>Features of Home Device Manager</title>
+    <refbody>
+        <p>Home Device Manager includes the Proactive Management Engine that allows policy-based automation of
+            device configuration and management. The Northbound Interface (NBI) also provides a standardized web
+            services interface for existing OSS infrastructure and integration with other Motive™ products such as
+            Service Management Platform (SMP) and Home Care. In addition, the <i>Traffic Regulation Module</i> (TRM)
+            is an optional module that uses input throttling to regulate massive amounts of traffic data collected
+            from CPEs, the <i>Intelligent Workflow Engine</i> (IWE) extends HDM's proactive management functionalities
+            by allowing service providers to customize service management workflows, and the Generic TR-069 Proxy
+            offers the capability to communicate and manage non-TR-069 devices. As a key benefit to providers, Home
+            Device Manager enables single as well as large-scale bulk device configuration, troubleshooting, firmware
+            upgrades, event management, alarm management, and user management. HDM also offers the following
+            capabilities:</p>
+    </refbody>
+</reference>
