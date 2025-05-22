@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="new_dita_topic_prompt_dialog">
+    <title>New DITA Topic Prompt Dialog</title>
+    <conbody>
+        <p>The <uicontrol>New DITA Topic</uicontrol> prompt dialog allows attaching images, PDF,
+            Word or PowerPoint documents. There are some sample documents in: <xref
+                href="https://github.com/oxygenxml-incubator/ai-positron-assistant-samples/tree/main/Convert"
+                format="html" scope="external"/>.</p>
+    </conbody>
+</concept>
