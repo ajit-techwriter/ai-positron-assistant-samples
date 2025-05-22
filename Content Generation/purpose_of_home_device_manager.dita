@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="purpose_of_home_device_manager">
+    <title>Purpose of Home Device Manager</title>
+    <conbody>
+        <p>Home Device Manager allows broadband providers to remotely manage <i>CPE (customer
+                premises equipment)</i>, such as:</p>
+        <ul>
+            <li>Residential gateways</li>
+            <li>DSL and cable modems</li>
+            <li>Femtocell access points</li>
+            <li>IP set-top boxes</li>
+            <li>VoIP terminal adapters</li>
+        </ul>
+        <p>Allowing for large-scale remote management of a multi-vendor CPE network, Home Device
+            Manager offers a standardized CPE integration layer that enables providers to manage
+            CPE that support either the <keyword>Broadband Forum's TR-069 protocol</keyword> or
+            other protocols such as <codeph>Telnet</codeph>.</p>
+    </conbody>
+</concept>
