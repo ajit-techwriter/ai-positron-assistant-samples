@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="using_new_dita_topic_action">
+    <title>Using the 'New DITA Topic' Action</title>
+    <conbody>
+        <p>You can use the <uicontrol>New DITA Topic</uicontrol> action from the <uicontrol>AI
+                Positron Assistant</uicontrol>
+            <menucascade>
+                <uicontrol>Actions</uicontrol>
+                <uicontrol>Content Generation</uicontrol>
+            </menucascade> category to ask the <b>AI Positron</b> to create a new DITA topic
+            containing content expanded by the <b>AI</b> based on an initial idea expressed in plain
+            text format.</p>
+        <p>The <uicontrol>New DITA Topic</uicontrol> prompt dialog allows attaching images, PDF,
+            Word or PowerPoint documents. There are some sample documents in: <xref
+                href="https://github.com/oxygenxml-incubator/ai-positron-assistant-samples/tree/main/Convert"
+                format="html" scope="external"/>.</p>
+    </conbody>
+</concept>
