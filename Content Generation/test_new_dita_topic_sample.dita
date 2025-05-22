@@ -11,11 +11,11 @@
             </menucascade> category to ask the <b>AI Positron</b> to create a new DITA topic
             containing content expanded by the <b>AI</b> based on an initial idea expressed in plain
             text format.</p>
-        <related-links>
-            <link href="new_dita_topic_prompt_dialog.dita"/>
-            <link href="example_creating_dita_xml_topic.dita"/>
-            <link href="home_device_manager_overview.dita"/>
-            <link href="resolved_issues_hdm.dita"/>
-        </related-links>
     </body>
+    <related-links>
+        <link href="new_dita_topic_prompt_dialog.dita"/>
+        <link href="example_creating_dita_xml_topic.dita"/>
+        <link href="home_device_manager_overview.dita"/>
+        <link href="resolved_issues_hdm.dita"/>
+    </related-links>
 </topic>
